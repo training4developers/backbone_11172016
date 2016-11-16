@@ -16,7 +16,7 @@ Breaks:
 
 ## Course Outline
 
-	JavaScript topics will be included as needed into the AngularJS content
+	JavaScript topics will be included as needed into the Backbone.js content
 
 - Day 1 - Backbone.js Overview, Events, Models, Collections
 - Day 2 - Views, Handlebars, Routing, Sync
